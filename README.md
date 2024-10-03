@@ -7,6 +7,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +21,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/јанко-кликовац-45a466271/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/јанко-кликовац-45a466271/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jankoklikovac@gmail.com)
 
 ## 🌱 Currently Learning
