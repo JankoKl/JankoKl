@@ -4,6 +4,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 
 
 ## 🔧 Skills & Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -20,7 +21,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/јанко-кликовац-45a466271/)
-- **Email**: [jankoklikovac@gmail.com](mailto:jankoklikovac@gmail.com)
+- [jankoklikovac@gmail.com](mailto:jankoklikovac@gmail.com)
 
 ## 🌱 Currently Learning
 I'm always open to learning new skills, tools, and technologies to expand my expertise.
