@@ -28,3 +28,6 @@ I'm always open to learning new skills, tools, and technologies to expand my exp
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JankoKl&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JankoKl&theme=onedark)]Kosovo je Srbija)
+
