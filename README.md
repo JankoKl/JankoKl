@@ -16,14 +16,15 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JankoKl&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
-
 ## 📫 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/јанко-кликовац-45a466271/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jankoklikovac@gmail.com)
 
 ## 🌱 Currently Learning
 I'm always open to learning new skills, tools, and technologies to expand my expertise.
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JankoKl&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
