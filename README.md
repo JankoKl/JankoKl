@@ -1,4 +1,4 @@
-# I'm Janko Klikovac 🔴🔵⚪
+# I am Janko Klikovac 🔴🔵⚪
 
 I'm a final year student from Serbia, currently studying at **[Faculty of Technical Sciences in Čačak](http://www.ftn.kg.ac.rs/)**. I have a passion for programming and enjoy learning new technologies that enhance my skill set.
 
