@@ -29,5 +29,5 @@ I'm always open to learning new skills, tools, and technologies to expand my exp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=JankoKl&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=JankoKl&theme=onedark)   ![Profile views](https://komarev.com/ghpvc/?username=JankoKl&color=blue)
 
