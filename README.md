@@ -18,11 +18,11 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 
 
 
-## 📫 Connect with me
+## 📫 Contact me
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/јанко-кликовац-45a466271/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jankoklikovac@gmail.com)
 
-## 🌱 Currently Learning
+
 I'm always open to learning new skills, tools, and technologies to expand my expertise.
 
 
