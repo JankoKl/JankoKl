@@ -31,7 +31,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 
 # 📫
 
-####  Contact me on LinkedIn or at jankoklikovac@gmail.com 
+####  Connect with me on LinkedIn or contact me at jankoklikovac@gmail.com 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/јанко-кликовац-45a466271/)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jankoklikovac@gmail.com)
 
 
