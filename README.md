@@ -11,7 +11,7 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![AssemblyLanguage](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
+[![AssemblyLanguage](https://img.shields.io/badge/assembly%20language-%23000000.svg?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ### Web Development
