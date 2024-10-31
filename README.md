@@ -60,7 +60,6 @@ I'm a final year student from Serbia, currently studying at **[Faculty of Techni
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JankoKl&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JankoKl&layout=compact&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JankoKl&theme=onedark)   ![Profile views](https://komarev.com/ghpvc/?username=JankoKl&color=blue)
 
